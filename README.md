@@ -1,6 +1,12 @@
-# Accessing-jupyter-notebook-
+# Accessing-jupyter-notebook-Remotely-
 
-Scenario : Suppose you have large amount of  data (may be TB) is in your working cluster and you want to access and interactively play with your data in your home computer.  xwin is one of the way to open your Jupyter notebook on remote host. However, this kind of connection is quite slow.
+## Why ?????? : 
+
+Sometimes, It is important to execute each line or block of code from large amount of code to visualize the output from each line. But consider your dataset is very large or each line or block of code is highly computationally expensive. Then, running jupyter notebook on the cluster having Multiple processors or GPU will be a good idea.
+
+or 
+
+Suppose you have large amount of  data (may be TB) is in your working cluster and you want to access and interactively play with your data in your home computer.  xwin is one of the way to open your Jupyter notebook on remote host. However, this kind of connection is quite slow.
 
 Please follow the instructions below to use faster connection.
 
@@ -42,4 +48,4 @@ Snapshot on your home computer
 
 Try to open notebook
 
- Your data (may be TB) is in your working cluster. You want to access and interactively play with your datayour home computer. You can use xwin to open your Jupyter notebook on remote host. However, this kind of connection is quite slow.
+ Your data (may be TB) is in your working cluster. You want to access and interactively play with your data in your home computer. You can use xwin to open your Jupyter notebook on remote host. However, this kind of connection is quite slow.
