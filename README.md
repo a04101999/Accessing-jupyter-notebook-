@@ -25,7 +25,7 @@ jupyter notebook --no-browser --port=8889
 
 ## you should leave this window open
 
-# Lets Play with local machine now!!
+# Let's Play with local machine now!!
 
 In your local computer, open MS-DOS cmd (if using Windows) or Unix terminal, then type:
 
