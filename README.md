@@ -24,6 +24,7 @@ ssh -N -f -L localhost:8888:localhost:8889 cougar_username@your_remote_host_name
 # Example: ssh -N -f -L localhost:8888:localhost:8889 aawasth3@csip_address
 
 
+![Screenshot (267)](https://user-images.githubusercontent.com/30754423/140812004-138e48f4-001e-423f-b900-fbe78892838e.png)
 
 Now open web browser (google chrome, firefox, ...) and type:
 
@@ -31,6 +32,7 @@ localhost:8888
 # you will see your notebooks in your given directory
 Snapshot on your home computer
 
+![Screenshot (268)](https://user-images.githubusercontent.com/30754423/140812101-ab752442-4c3e-43d6-9ace-6207e51887a3.png)
 
 Try to open notebook
 
