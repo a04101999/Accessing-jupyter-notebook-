@@ -38,7 +38,7 @@ ssh -N -f -L localhost:8888:localhost:8889 cougar_username@your_remote_host_name
 
 ![Screenshot (267)](https://user-images.githubusercontent.com/30754423/140812004-138e48f4-001e-423f-b900-fbe78892838e.png)
 
-Now open web browser (google chrome, firefox, ...) and type:
+Now open web browser in our local machine (google chrome, firefox, ...) and type:
 
 localhost:8888
 ## you will see your notebooks in your given directory
